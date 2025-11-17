@@ -1,4 +1,4 @@
-# Attackontitanapi
+# Gameofthronesquotes
 api for gameofthronesquotes.xyz site for game of thrones quotes
 # main
 ```cpp
